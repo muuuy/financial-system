@@ -1,0 +1,14 @@
+.auth-form--container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.auth-form--input-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.auth-form--submit-button {
+    background-color: orange;
+}
